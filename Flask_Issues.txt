@@ -23,3 +23,6 @@ To get flask to work i had to:
 6. $env:FLASK_APP="main.py"
 7. run flask run
 8. open browser and point to http://127.0.0.1:5000
+
+source control = sample flask app
+ls -la .venv/bin
